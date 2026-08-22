@@ -1,0 +1,16 @@
+{
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    },
+    "files.trimTrailingWhitespace": false
+  },
+  "markdown.validate.enabled": true,
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  "markdown.copyFiles.destination": {
+    "/src/content/docs/**/*": "/public/images/${documentBaseName}/"
+  }
+}

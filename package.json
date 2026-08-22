@@ -1,0 +1,29 @@
+{
+  "name": "markdown-dev",
+  "version": "2.0.0",
+  "private": true,
+  "description": "2026年の実務向けMarkdownガイドとドキュメントサイト",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#dist\"",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@astrojs/starlight": "0.41.7",
+    "astro": "7.2.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "markdownlint-cli2": "0.23.2",
+    "prettier": "3.9.6",
+    "typescript": "5.9.3"
+  }
+}
