@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 879 120" width="1758" height="240">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nMVUTW/TMFx1MDAxOL7vV1jZlbVJ2jRNkZA6XHUwMDA201x1MDAxMEOIXCJcdTAwMDYqPbiJXHUwMDEzm7i2ZTtrS9X/ju10cVq4k4NcdTAwMTU/79fzfvlwXHUwMDA1QKD3XHUwMDAyXHUwMDA1M1x1MDAxMKBdXHUwMDBlKSkk3Fx1MDAwNq8s/oykXCKcXHUwMDE5Uezuijcyd5pYa6FmwyFcdTAwMTRiUFx1MDAxMb3mvFx1MDAxZeR805ohijaIaWVcdTAwMTSX5lx1MDAwZcDBnb1AXHUwMDFh7bTTdahcdTAwMGZcdTAwMTMl6SX6iTNcdTAwMTcyy8IwSsdR2ClcdTAwMTB1Z1wiaVRcdTAwMThpXHSpQl5ioeC+vKvK+Vx1MDAwZoRcdTAwMTFm998/XHUwMDBidj9BXHUwMDFmfNSSULrQe9rmXHUwMDAzc9xI5KVKS16jJ1JobHld4J2d4qZe3krypsJcZil1ZsNcdTAwMDXMid5bLPT0IaucXHUwMDBmj+xsoZNwkMWjJI6zcVx1MDAxNkfTNOnEzsE4XHUwMDFlTNNROJ70JS2pt5xyaUldh+7ztNYwryvDjVx1MDAxNZ2OlpApXHUwMDAxpemT19ue0p0mWYdhRCqsL7gr5KqeJGmcjjKP2yDioXCdX13WXGZDKU61XHSUvfRcYlpu73pj441cdTAwMWJRwLbH0SSNkmkyTSfh2POjhNVGyFx1MDAxYUo9xvP6XHUwMDFmY1Fyplx1MDAxN+S3LXpcdTAwMWOeoe/hhtD9WdPciFx1MDAxYaaz2VxmbJDcQFL8ZKCSUGDw8ctr8z9fPpGaXHUwMDAw1VxiwaVW4LHVWoGbmzfgdvmNKKLBy6KcXFz8UnZdcLNcdTAwMWVcdTAwMTA+XHUwMDA0JZcvVkDtmYa7lXFsXCL2W6eQSdFtwOiM3JySyu5MQFF5vkyamDXuxJr3XG6dm2ShcSdcdTAwMWaKy6JxSSrCIP36X1x1MDAxM3dsjuZ0XHUwMDEzXHUwMDEwmPdloU3/XHKh9lx1MDAxMTEjRopTXHUwMDEzPf3gmaDt7d9Tfl26z3o9On9m6ZFcdTAwMWSww/Hq+Fx1MDAwN+3bYEMifQ==<!-- payload-end -->
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.13.0/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.13.0/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="879" height="120" fill="#ffffff"/><g transform="translate(10 10) rotate(0 429.5 50)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">::: mermaid</text><text x="0" y="43" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr"> graph LR;</text><text x="0" y="68" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr"> A[Wiki supports Mermaid] --&gt; B[Visit https://mermaidjs.github.io/ for Mermaid syntax];</text><text x="0" y="93" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">:::</text></g></svg>
