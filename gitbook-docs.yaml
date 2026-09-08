@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Markdown.dev
+  structure:
+    - type: space
+      key: space-1
+      title: Markdown.dev
+      path: markdown.dev
+      default: true
+      content:
+        directory: ./markdown.dev
