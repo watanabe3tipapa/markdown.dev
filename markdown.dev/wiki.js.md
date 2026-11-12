@@ -65,7 +65,7 @@ As a reference, the following format conversions occur based on the source / tar
 
 The Code editor is a basic raw HTML editor.
 
-> _It's generaly not recommended to use this editor to write new content. This editor is provided as a convenience to import existing content from older systems which is only available in raw HTML._
+> _It's generally not recommended to use this editor to write new content. This editor is provided as a convenience to import existing content from older systems which is only available in raw HTML._
 
 #### User Guide <a href="#user-guide" id="user-guide"></a>
 
